@@ -4,4 +4,5 @@ Small, but usefull script to make screenshot of part of the screen and paste it 
 Especially usefull in case of remote lectures 😉
 
 Requirements:
-- Lightshot (with preserve selection option enabled)
+- AutoHotKey program
+- Lightshot program (with preserve selection option enabled)
